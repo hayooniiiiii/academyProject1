@@ -4,5 +4,6 @@ public class TestByLee {
 	public void writeLee() {
 		System.out.println("lee branch로 회원가입 폼 만드는중");
 		System.out.println("son이수정");
+		System.out.println("lee가 또수정");
 	}
 }
